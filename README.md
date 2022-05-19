@@ -1,4 +1,4 @@
-Incoming first year graduate student at Weill Cornell Medicine. My research focuses on using mathematical methods, particularly ODEs, to model and simulate neural circuits. 
+Incoming first year graduate student at Weill Cornell Medicine. My research focuses on using mathematical methods, particularly ODEs, to model and simulate neural circuits and explore the mechanisms underlying spiking patterns in such circuits. 
 
 ### Publications
 
