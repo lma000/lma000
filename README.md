@@ -1,4 +1,9 @@
-Incoming computational biology graduate student at Weill Cornell Medicine. My research focuses on using mathematical methods, particularly ODEs, to model and simulate neural circuits and explore the mechanisms underlying spiking patterns in such circuits. 
+MS Computational Biology student at Weill Cornell Medicine in Jonathan Victor's lab.  
+BS Mathematics from William & Mary, 2022.  
+My research focuses on mathematical analyses of neural activity using two primary approaches; 
+
+- neural circuits: using ODEs/dynamical systems to model and simulate cortical neural circuits and investigating the mechanisms underlying spiking patterns, typically by connecting LIF neurons into a network and quantifying population spike behavior
+- spike train metrics: deriving distance metrics between representations of spike trains to compare different spike patterns, in particular by embedding spike trains as random walks in $\mathbb{H}^2$ and analyzing endpoints (per quasigeodesic stability, nearby endpoints imply similar spike trains)
 
 ### Publications
 
