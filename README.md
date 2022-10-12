@@ -3,7 +3,7 @@ B.S. Mathematics from William & Mary, 2022.
 My research focuses on mathematical analyses of neural activity using two primary approaches; 
 
 - neural circuits: using ODEs/dynamical systems to model and simulate cortical neural circuits and investigating the mechanisms underlying spiking patterns, typically by connecting LIF neurons into a network and quantifying population spike behavior
-- spike train metrics: deriving distance metrics between representations of spike trains to compare different spike patterns, in particular by embedding spike trains as random walks in $\mathbb{H}^2$ and analyzing endpoints
+- spike train metrics: deriving mathematically rigorous distance metrics between representations of spike trains to compare different spike patterns, in particular by embedding spike trains as random walks in $\mathbb{H}^2$ and analyzing endpoints
 
 ### Publications
 
