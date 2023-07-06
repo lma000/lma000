@@ -1,4 +1,4 @@
-M.S. Computational Biology student at Weill Cornell Medicine in Dr. Jonathan Victor's lab.  
+PhD student in Neuroengineering at Johns Hopkins University 
 B.S. Mathematics from William & Mary, 2022.  
 My research focuses on mathematical analyses of neural activity using two primary approaches; 
 
